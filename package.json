@@ -1,0 +1,39 @@
+{
+  "name": "html2pdf-cli",
+  "version": "1.0.0",
+  "description": "A powerful command-line tool to convert HTML files to PDF with customizable options",
+  "main": "html2pdf.js",
+  "bin": {
+    "html2pdf": "./html2pdf.js"
+  },
+  "scripts": {
+    "test": "node html2pdf.js test.html -o test.pdf",
+    "install-global": "npm install -g ."
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "converter",
+    "puppeteer",
+    "cli",
+    "html-to-pdf",
+    "pdf-generator"
+  ],
+  "author": "AgentIC Company",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "yargs": "^17.7.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/html2pdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/html2pdf/issues"
+  },
+  "homepage": "https://github.com/yourusername/html2pdf#readme"
+}
