@@ -26,7 +26,7 @@ npm install -g html2pdf-cli
 ### Local Installation
 
 ```bash
-git clone https://github.com/yourusername/html2pdf.git
+git clone https://github.com/ssql2014/html2pdf.git
 cd html2pdf
 npm install
 npm link
@@ -202,4 +202,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues and feature requests, please use the [GitHub issue tracker](https://github.com/yourusername/html2pdf/issues).
+For issues and feature requests, please use the [GitHub issue tracker](https://github.com/ssql2014/html2pdf/issues).

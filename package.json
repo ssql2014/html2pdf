@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/html2pdf.git"
+    "url": "https://github.com/ssql2014/html2pdf.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/html2pdf/issues"
+    "url": "https://github.com/ssql2014/html2pdf/issues"
   },
-  "homepage": "https://github.com/yourusername/html2pdf#readme"
+  "homepage": "https://github.com/ssql2014/html2pdf#readme"
 }
